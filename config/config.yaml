@@ -2,4 +2,4 @@ weather_data_api:
     base_url: http://api.openweathermap.org/data/2.5/weather
 
 API_KEY:
-    api_key: 02a450128b67d9a5e92f62dad9dc65b9
+    api_key: API_KEY
