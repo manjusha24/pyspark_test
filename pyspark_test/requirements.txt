@@ -3,5 +3,5 @@ gunicorn==20.0.4
 requests==2.23.0
 waitress==1.4.3
 easydict==1.9
-PyYaml==5.3.1
+PyYaml==5.4
 grequests==0.6.0
